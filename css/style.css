@@ -202,7 +202,7 @@ progress[value]::-moz-progress-bar {
     min-height: 150px;
     border-radius: 20px;
     background: var(--color-ternario);
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.150);
+    box-shadow: 0px 0px 20px rgba(188, 170, 170, 0.096);
     color: var(--color-primario);
     font-family: "SF-Pro-Text-Semibold";
     text-transform: capitalize;
@@ -220,9 +220,6 @@ progress[value]::-moz-progress-bar {
 .service__cards__item_3{
     /* background: darkmagenta; */
 }
-
-
-
 
 
 .activities__transactions{

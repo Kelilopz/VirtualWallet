@@ -98,7 +98,7 @@
     grid-template-rows: 1fr;
     /* background: red; */
     border-radius: 15px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.130);
+    box-shadow: 0 0 15px rgba(227, 224, 224, 0.13);
     grid-template-areas: 
     "logo description";
 }
